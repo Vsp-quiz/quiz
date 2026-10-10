@@ -1,1 +1,1 @@
-{"updated":"2026-10-10T15:56:48.906Z","sets":{},"jobs":[]}
+{"updated":"2026-10-10T15:59:44.858Z","sets":{"B01":{"name":"B01","v":1,"count":69,"active":true,"file":"data/B01.json"},"B02":{"name":"B02","v":1,"count":69,"active":true,"file":"data/B02.json"},"B03":{"name":"B03","v":1,"count":69,"active":true,"file":"data/B03.json"}},"jobs":[{"id":"cam-moc-cap","name":"CAM - Móc cáp","active":true,"count":20,"minutes":20,"sets":{"B01":60,"B02":30,"B03":10}}]}
